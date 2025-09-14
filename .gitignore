@@ -8,3 +8,4 @@ influencers.csv
 # Ignore credentials if you use a JSON or env file
 credentials.json
 .env
+emails_sent.log
