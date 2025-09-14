@@ -1,0 +1,10 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore CSV of recipients
+influencers.csv
+
+# Ignore credentials if you use a JSON or env file
+credentials.json
+.env
